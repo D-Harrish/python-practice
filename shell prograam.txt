@@ -1,8 +1,0 @@
-Echo “enter the filename”
-Read file
-L=`wc –l $file`  
-W=`wc –w $file`     
-C=`wc –m $file`        
-Echo “no of line in $file is $L”
-Echo “no of word in $file is $W”
-Echo “ no of character in $file is $C”
