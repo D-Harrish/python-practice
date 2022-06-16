@@ -1,0 +1,10 @@
+Name="HARRISH"
+Age=21
+College="PUDUCHERRY TECHONOLOGICAL UNIVERSITY"
+Mobileno=6382351827
+From="LAWSPET PUDUCHERRY"
+print("Name=",Name)
+print("Age=",Age)
+print("College=",College)
+print("Mobileno=",Mobileno)
+print("From=",From)
